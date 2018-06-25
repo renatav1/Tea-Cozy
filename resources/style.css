@@ -70,15 +70,23 @@ flex-wrap: wrap;
 flex-direction: row;
 justify-content: center;
 width: 1000px;
+align-items: center;
+margin-left: 12.5%;
+justify-content: space-around;
 
 
 }
 
 /* Locations */
 
-.Locations img {
+.Locations {
   width: 1200px;
   height: 500px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  width:1000px;
+  margin-top: 69px;
+
+
 }
 
 .text-content {
